@@ -1,0 +1,12 @@
+{
+    "require": {
+        "psr/log": "1.0.0"
+    },
+    "extra": {
+        "violinist": {
+            "assignees": [
+                "eiriksm"
+            ]
+        }
+    }
+}
